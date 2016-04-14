@@ -1,5 +1,5 @@
 # hello-world
 My first repository
 Hello!
-I am Kahta, student, love coffee and basil :-)
+I am Katha, student, love coffee and basil :-)
 Have a good day!
